@@ -1,0 +1,27 @@
+#a{
+    margin-top: 9em;
+    background-color: yellow;
+    padding: 100px;
+    border-width: 5px;
+    border-style: solid;
+}
+#b{
+    margin-left: 50px;
+}
+#c{
+    background: yellowgreen;
+    height: 100em;
+
+}
+#chance{
+    font-family: Lobster;
+}
+#j{
+    font-family: francois One;
+}
+#k{
+    font-family: oswald;
+}
+#headingp{
+    font-style: oswald;
+}
